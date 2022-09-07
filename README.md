@@ -15,7 +15,7 @@ libffmpeg.so file for Chromium and Opera, Fix Opera browser video playback error
 <h1>Custom Method</h1>
 <h2>Commands</h2>
 <p>
-  <b>$</b> git clone https://github.com/Musaddiq-Sultan/Opera-Fix<br>(Clone the repository)
-  <br><b>$</b> cd Opera-Fix/<br>(Enter Opera-Fix folder)
-  <br><b>$</b> sudo cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera<br>(Copy libffmpeg.so to /usr/lib/x86_64-linux-gnu/opera)
+  <b>$</b> git clone https://github.com/Musaddiq-Sultan/Opera-Fix<br>(<i>Clone the repository</i>)
+  <br><b>$</b> cd Opera-Fix/<br>(<i>Enter Opera-Fix folder</i>)
+  <br><b>$</b> sudo cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera<br>(<i>Copy libffmpeg.so to /usr/lib/x86_64-linux-gnu/opera</i>)
 </p>
