@@ -15,5 +15,5 @@ libffmpeg.so file for Chromium and Opera, Fix Opera browser video playback on Li
 <p>
   $ git clone https://github.com/Musaddiq-Sultan/Opera-Fix<br>(Clone the repository)
   <br>$ cd Opera-Fix/<br>(Enter Opera-Fix folder)
-  <br>$ cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera<br>(Copy libffmpeg.so to /usr/lib/x86_64-linux-gnu/opera)
+  <br>$ sudo cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera<br>(Copy libffmpeg.so to /usr/lib/x86_64-linux-gnu/opera)
 </p>
