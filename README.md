@@ -1,21 +1,21 @@
 # Opera-Libffmpeg
-libffmpeg.so file for Chromium and Opera, Fix Opera browser video playback error on Linux.
+<strong>libffmpeg.so</strong> file for Chromium and Opera, Fix Opera browser video playback error in <strong>Linux</strong>.
 
 <h1>Important</h1>
-<p>Before proceeding into the method make sure you backup your original <b>libffmpeg.so</b> file, in case if something goes wrong you'll be able to get things back to normal.<br><b>Command for backing up:</b><br><b>$</b> sudo cp /usr/lib/x86_64-linux-gnu/opera/libffmpeg.so ~/<br><b>Command for recovery:</b><br><b>$</b> sudo cp ~/libffmpeg.so /usr/lib/x86_64-linux-gnu/opera/libffmpeg.so</p>
+<p>Before proceeding into the method make sure you backup your original <strong>libffmpeg.so</strong> file, in case if something goes wrong you'll be able to get things back to normal.<br><b>Command for backing up:</b><br><b>$</b> <code>sudo cp /usr/lib/x86_64-linux-gnu/opera/libffmpeg.so ~/</code><br><b>Command for recovery:</b><br><b>$</b> <code>sudo cp ~/libffmpeg.so /usr/lib/x86_64-linux-gnu/opera/libffmpeg.so</code></p>
 <h1>Easy Method</h1>
 <h2>Commands</h2>
 <p>
-  <b>$</b> git clone https://github.com/Musaddiq-Sultan/Opera-Fix
-  <br><b>$</b> cd Opera-Fix/
-  <br><b>$</b> chmod a+x opera-fix.sh
-  <br><b>$</b> ./opera-fix.sh
+  <b>$</b> <code>git clone https://github.com/Musaddiq-Sultan/Opera-Fix</code>
+  <br><b>$</b> <code>cd Opera-Fix/</code>
+  <br><b>$</b> <code>chmod a+x opera-fix.sh</code>
+  <br><b>$</b> <code>./opera-fix.sh</code>
 </p>
 
 <h1>Custom Method</h1>
 <h2>Commands</h2>
 <p>
-  <b>$</b> git clone https://github.com/Musaddiq-Sultan/Opera-Fix<br>(<i>Clone the repository</i>)
-  <br><b>$</b> cd Opera-Fix/<br>(<i>Enter Opera-Fix folder</i>)
-  <br><b>$</b> sudo cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera<br>(<i>Copy libffmpeg.so to /usr/lib/x86_64-linux-gnu/opera</i>)
+  <b>$</b> <code>git clone https://github.com/Musaddiq-Sultan/Opera-Fix</code><br>(<i>Clone the repository</i>)
+  <br><b>$</b> <code>cd Opera-Fix/</code><br>(<i>Enter Opera-Fix folder</i>)
+  <br><b>$</b> <code>sudo cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera<br></code>(<i>Copy libffmpeg.so to /usr/lib/x86_64-linux-gnu/opera</i>)
 </p>
