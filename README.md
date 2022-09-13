@@ -8,8 +8,7 @@
 <p>
   <b>$</b> <code>git clone https://github.com/Musaddiq-Sultan/Opera-Fix</code>
   <br><b>$</b> <code>cd Opera-Fix/</code>
-  <br><b>$</b> <code>chmod a+x opera-fix.sh</code>
-  <br><b>$</b> <code>./opera-fix.sh</code>
+  <br><b>$</b> <code>bash opera-fix.sh</code>
 </p>
 
 <h1>Custom Method</h1>
