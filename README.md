@@ -8,13 +8,13 @@
 <p>
   <b>$</b> <code>git clone https://github.com/Musaddiq-Sultan/Opera-Fix</code>
   <br><b>$</b> <code>cd Opera-Fix/</code>
-  <br><b>$</b> <code>bash opera-fix.sh</code>
+  <br><b>$</b> <code>./opera-fix</code>
 </p>
 
 <h1>Custom Method</h1>
 <h2>Commands</h2>
 <p>
   <b>$</b> <code>git clone https://github.com/Musaddiq-Sultan/Opera-Fix</code><br>(<i>Clone the repository</i>)
-  <br><b>$</b> <code>cd Opera-Fix/</code><br>(<i>Enter Opera-Fix folder</i>)
-  <br><b>$</b> <code>sudo cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera</code><br>(<i>Copy libffmpeg.so to /usr/lib/x86_64-linux-gnu/opera/</i>)
+  <br><b>$</b> <code>cd Opera-Fix/</code><br>(<i>Enter Opera-Fix directory</i>)
+  <br><b>$</b> <code>sudo cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera/</code><br>(<i>Copy libffmpeg.so to /usr/lib/x86_64-linux-gnu/opera/</i>)
 </p>
